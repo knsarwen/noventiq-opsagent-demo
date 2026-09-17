@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/staticwebappconfig.json",
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  },
+  "mimeTypes": {
+    ".json": "text/json"
+  }
+}
