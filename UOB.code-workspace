@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/App"
+		},
+		{
+			"path": "../../../Downloads/Noventiq-OpsAgent-Complete-Package/Noventiq-OpsAgent"
+		}
+	],
+	"settings": {}
+}
